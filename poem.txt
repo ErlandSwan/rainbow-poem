@@ -5,6 +5,7 @@ Pink
 Orange
 Green
 Yellow
+Ultramarine
 Red
 Blue
 Indigo
